@@ -16,3 +16,11 @@ p {
     font-size: 22px;
     font-family: 'Metrophobic', sans-serif;
 }
+
+#social {
+    text-align: center;
+}
+
+.socialicon {
+    padding: 10px;
+}
